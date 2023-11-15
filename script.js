@@ -1,4 +1,4 @@
-// Este es un archivo JavaScript simple para agregar interactividad
+// Puedes agregar interactividad según tus necesidades
 document.addEventListener('DOMContentLoaded', function() {
-    alert('¡Bienvenido a mi página web!');
+    // Código JavaScript aquí
 });
